@@ -1,7 +1,0 @@
-package lectie1.ex2;
-
-public class ex2 {
-    public static void main(String[] args) {
-        System.out.println("Cats are robots!");
-    }
-}
